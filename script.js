@@ -1,1 +1,1 @@
-cosnt x = Z;
+const x = Z;
