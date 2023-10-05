@@ -1,1 +1,1 @@
-const x = Z;
+const x = 5;
