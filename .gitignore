@@ -10,6 +10,7 @@ lerna-debug.log*
 #files
 
 help.md
+help2.md
 .env
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
